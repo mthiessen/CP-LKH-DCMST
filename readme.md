@@ -2,7 +2,7 @@
 
 This is a branch-and-bound solver for the degree-constrained minimum spanning tree problem using constraint programming and the LKH heuristic. 
 
-Joint work of Maximilian Thiessen (University of Bonn, Fraunhofer IAIS), Luis Quesada (UCC Cork, Insight) and Kenneth N. Brown (UCC Cork, Inisght)
+Joint work of Maximilian Thiessen (University of Bonn, Fraunhofer IAIS), Luis Quesada (UCC Cork, Insight) and Kenneth N. Brown (UCC Cork, Insight)
 
 ## Dependencies:
     Java 8 (or higher)
@@ -13,7 +13,7 @@ Joint work of Maximilian Thiessen (University of Bonn, Fraunhofer IAIS), Luis Qu
 ## Data:
     res/...
 
-    This repository only contains some example instaces. To get the complete benchmark datasets see e.g. https://github.com/malbarbo/dcmstp-instances
+    This repository contains only some example instances. To get the complete benchmark datasets see e.g. https://github.com/malbarbo/dcmstp-instances
 
 ## Build 
 ### Build Linux:
